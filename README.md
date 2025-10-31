@@ -13,7 +13,7 @@ You can view the interactive version here:
 👉 [My Tableau Public Dashboard](https://public.tableau.com/app/profile/prateek.kumar4029/viz/complete_british_airways_reviews_DA/Dashboard1)
 
 ## 🗾 Dashboard Preview
-![Dashboard Preview](thumbnail.jpeg)
+![Dashboard Preview](thumbnail.png)
 
 ## 📄 License
 This project is shared for educational and demonstration purposes.
